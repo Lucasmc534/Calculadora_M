@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="440" viewBox="0 0 360 440">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="180.0" y="32" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#172033">Boxplot — Lucas K</text>
+<path d="M65,340 V70" stroke="#cbd5e1" stroke-width="1"/>
+<path d="M180,126.43 V154.29 M168,126.43 H192 M180,200.71 V265.71 M168,265.71 H192" fill="none" stroke="#334155" stroke-width="2"/>
+<rect x="156.0" y="154.29" width="48" height="46.43" fill="#dc2626" fill-opacity="0.35" stroke="#dc2626" stroke-width="2"/>
+<path d="M156.0,182.14 H204.0" stroke="#dc2626" stroke-width="3"/>
+<circle cx="176" cy="312.14" r="4" fill="#dc2626" stroke="#ffffff"/>
+<circle cx="188" cy="80.00" r="4" fill="#dc2626" stroke="#ffffff"/>
+<text x="250.00" y="204.71" text-anchor="start" font-family="Arial,sans-serif" font-size="11" fill="#334155">Q1: 15.00 cm</text>
+<text x="250.00" y="186.14" text-anchor="start" font-family="Arial,sans-serif" font-size="11" fill="#334155">Mediana: 17.00 cm</text>
+<text x="250.00" y="158.29" text-anchor="start" font-family="Arial,sans-serif" font-size="11" fill="#334155">Q3: 20.00 cm</text>
+<text x="180.00" y="400.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#334155">Distância (cm)</text>
+</svg>

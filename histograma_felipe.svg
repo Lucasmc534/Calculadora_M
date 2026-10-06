@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="440" viewBox="0 0 680 440">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="340.0" y="32" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#172033">Histograma — Felipe</text>
+<path d="M75,65 V350 H615" fill="none" stroke="#475569" stroke-width="1.5"/>
+<path d="M75,350.00 H615" stroke="#e2e8f0" stroke-width="1"/>
+<text x="65.00" y="354.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">0.0</text>
+<path d="M75,293.00 H615" stroke="#e2e8f0" stroke-width="1"/>
+<text x="65.00" y="297.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">3.6</text>
+<path d="M75,236.00 H615" stroke="#e2e8f0" stroke-width="1"/>
+<text x="65.00" y="240.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">7.2</text>
+<path d="M75,179.00 H615" stroke="#e2e8f0" stroke-width="1"/>
+<text x="65.00" y="183.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">10.8</text>
+<path d="M75,122.00 H615" stroke="#e2e8f0" stroke-width="1"/>
+<text x="65.00" y="126.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">14.4</text>
+<path d="M75,65.00 H615" stroke="#e2e8f0" stroke-width="1"/>
+<text x="65.00" y="69.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">18.0</text>
+<rect x="76.00" y="286.67" width="88.00" height="63.33" fill="#059669" fill-opacity="0.78" stroke="#ffffff"/>
+<text x="121.00" y="280.67" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#334155">4</text>
+<text x="121.00" y="369.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#334155">0.0–4.5</text>
+<rect x="166.00" y="239.17" width="88.00" height="110.83" fill="#059669" fill-opacity="0.78" stroke="#ffffff"/>
+<text x="211.00" y="233.17" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#334155">7</text>
+<text x="211.00" y="369.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#334155">4.5–9.0</text>
+<rect x="256.00" y="65.00" width="88.00" height="285.00" fill="#059669" fill-opacity="0.78" stroke="#ffffff"/>
+<text x="301.00" y="59.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#334155">18</text>
+<text x="301.00" y="369.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#334155">9.0–13.5</text>
+<rect x="346.00" y="207.50" width="88.00" height="142.50" fill="#059669" fill-opacity="0.78" stroke="#ffffff"/>
+<text x="391.00" y="201.50" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#334155">9</text>
+<text x="391.00" y="369.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#334155">13.5–18.0</text>
+<rect x="436.00" y="334.17" width="88.00" height="15.83" fill="#059669" fill-opacity="0.78" stroke="#ffffff"/>
+<text x="481.00" y="328.17" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#334155">1</text>
+<text x="481.00" y="369.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#334155">18.0–22.5</text>
+<rect x="526.00" y="334.17" width="88.00" height="15.83" fill="#059669" fill-opacity="0.78" stroke="#ffffff"/>
+<text x="571.00" y="328.17" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" fill="#334155">1</text>
+<text x="571.00" y="369.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#334155">22.5–27.0</text>
+<text x="345.00" y="400.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#334155">Distância (cm)</text>
+<text x="20" y="207.5" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#334155" transform="rotate(-90 20 207.5)">Frequência absoluta</text>
+</svg>

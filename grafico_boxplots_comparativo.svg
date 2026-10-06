@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="460" viewBox="0 0 760 460">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="380.0" y="32" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="bold" fill="#172033">Boxplots comparativos dos integrantes</text>
+<path d="M70,350 V70 H720" fill="none" stroke="#475569"/>
+<path d="M70,350.00 H720" stroke="#e2e8f0"/>
+<text x="62.00" y="354.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">0.0</text>
+<path d="M70,298.00 H720" stroke="#e2e8f0"/>
+<text x="62.00" y="302.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">5.6</text>
+<path d="M70,246.00 H720" stroke="#e2e8f0"/>
+<text x="62.00" y="250.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">11.2</text>
+<path d="M70,194.00 H720" stroke="#e2e8f0"/>
+<text x="62.00" y="198.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">16.8</text>
+<path d="M70,142.00 H720" stroke="#e2e8f0"/>
+<text x="62.00" y="146.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">22.4</text>
+<path d="M70,90.00 H720" stroke="#e2e8f0"/>
+<text x="62.00" y="94.00" text-anchor="end" font-family="Arial,sans-serif" font-size="10" fill="#334155">28.0</text>
+<path d="M150.0,173.57 V210.71 M138.0,173.57 H162.0 M150.0,266.43 V331.43 M138.0,331.43 H162.0" fill="none" stroke="#334155" stroke-width="2"/>
+<rect x="126.0" y="210.71" width="48" height="55.71" fill="#2563eb" fill-opacity="0.35" stroke="#2563eb" stroke-width="2"/>
+<path d="M126.0,238.57 H174.0" stroke="#2563eb" stroke-width="3"/>
+<circle cx="154.0" cy="90.00" r="4" fill="#dc2626" stroke="#ffffff"/>
+<text x="150.00" y="374.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#334155">Lucas C</text>
+<path d="M310.0,136.43 V164.29 M298.0,136.43 H322.0 M310.0,210.71 V275.71 M298.0,275.71 H322.0" fill="none" stroke="#334155" stroke-width="2"/>
+<rect x="286.0" y="164.29" width="48" height="46.43" fill="#dc2626" fill-opacity="0.35" stroke="#dc2626" stroke-width="2"/>
+<path d="M286.0,192.14 H334.0" stroke="#dc2626" stroke-width="3"/>
+<circle cx="306.0" cy="322.14" r="4" fill="#dc2626" stroke="#ffffff"/>
+<circle cx="318.0" cy="90.00" r="4" fill="#dc2626" stroke="#ffffff"/>
+<text x="310.00" y="374.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#334155">Lucas K</text>
+<path d="M470.0,182.86 V223.48 M458.0,182.86 H482.0 M470.0,272.23 V331.43 M458.0,331.43 H482.0" fill="none" stroke="#334155" stroke-width="2"/>
+<rect x="446.0" y="223.48" width="48" height="48.75" fill="#059669" fill-opacity="0.35" stroke="#059669" stroke-width="2"/>
+<path d="M446.0,247.86 H494.0" stroke="#059669" stroke-width="3"/>
+<circle cx="470.0" cy="99.29" r="4" fill="#dc2626" stroke="#ffffff"/>
+<circle cx="474.0" cy="350.00" r="4" fill="#dc2626" stroke="#ffffff"/>
+<circle cx="478.0" cy="350.00" r="4" fill="#dc2626" stroke="#ffffff"/>
+<text x="470.00" y="374.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#334155">Felipe</text>
+<path d="M630.0,136.43 V173.57 M618.0,136.43 H642.0 M630.0,210.71 V257.14 M618.0,257.14 H642.0" fill="none" stroke="#334155" stroke-width="2"/>
+<rect x="606.0" y="173.57" width="48" height="37.14" fill="#9333ea" fill-opacity="0.35" stroke="#9333ea" stroke-width="2"/>
+<path d="M606.0,192.14 H654.0" stroke="#9333ea" stroke-width="3"/>
+<circle cx="622.0" cy="275.71" r="4" fill="#dc2626" stroke="#ffffff"/>
+<circle cx="622.0" cy="285.00" r="4" fill="#dc2626" stroke="#ffffff"/>
+<text x="630.00" y="374.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#334155">Mauricio</text>
+<text x="395.00" y="420.00" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#334155">Distância (cm)</text>
+</svg>
