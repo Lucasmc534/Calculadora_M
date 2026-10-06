@@ -33,10 +33,6 @@ autônomas, visualizáveis localmente em um navegador, e um HTML de índice:
 Todos os arquivos de saída são gravados ao lado deste script. Para trocar ou
 corrigir dados, edite as listas em dados_experimento; mantenha 40 posições.
 Para uma medida não coletada, use None sem remover sua posição da lista.
-
-O valor vazio que originalmente apareceu na lista de Mauricio depois do 14
-foi tratado como erro de digitação, conforme confirmação do usuário; os 40
-valores numéricos foram mantidos em ordem.
 """
 
 import html
